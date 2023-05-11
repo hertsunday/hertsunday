@@ -16,4 +16,4 @@
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sunday's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hertsunday&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=74eabc" width = "300px" height="190px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sunday's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hertsunday&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=74eabc" height="192px"/></a>
